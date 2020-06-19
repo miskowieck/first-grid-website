@@ -84,7 +84,7 @@ body{
 }
 
 #home{
-    background-image: url('https://i.picsum.photos/id/279/2000/1000.jpg');
+    background-image: url('https://picsum.photos/id/279/2000/1000.jpg');
     min-height:52.8rem;
    display:flex;
    flex-direction: column;
